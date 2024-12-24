@@ -11333,4 +11333,5 @@ section#contact form#contactForm :-ms-input-placeholder {
  position:fixed;
  bottom: 0px;
  z-index: 99;
+ background-color: wheat;
 }
