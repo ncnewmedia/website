@@ -10962,7 +10962,7 @@ p {
   }
 }
 header.masthead {
-  padding-top: 2.5rem;
+  padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
  
@@ -10981,7 +10981,7 @@ header.masthead .masthead-subheading {
  color: #d5b940;
 }
 header.masthead .masthead-heading {
-  font-size: 3.25rem;
+  font-size: 3rem;
   font-weight: 700;
   line-height: 3.25rem;
   margin-bottom: 2rem;
